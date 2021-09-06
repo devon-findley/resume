@@ -1,3 +1,5 @@
+##Don't know why I had to pick a theme but that seems to have fixed the website?
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/devon-findley/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
